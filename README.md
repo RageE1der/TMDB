@@ -1,5 +1,3 @@
-# TMDB
-
 # Project Title: TMDB Movie and TV Show Search
 
 # Description:
